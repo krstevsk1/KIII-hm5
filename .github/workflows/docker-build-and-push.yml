@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: krstevsk1/KIII-hm5:latest
+          tags: krstevsk1/kiii-hm5:latest
